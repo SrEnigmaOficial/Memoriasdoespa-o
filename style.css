@@ -1,0 +1,13 @@
+div#page {
+    width: auto;
+    text-align: center;
+    padding: 40px 20px;
+}
+img {
+    max-width: 100%;
+}
+
+ul {
+
+    color: red;
+}
